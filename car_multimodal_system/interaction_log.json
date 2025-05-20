@@ -1,0 +1,247 @@
+[
+    {
+        "timestamp": "2025-05-20 10:24:43",
+        "voice_result": "",
+        "gesture_result": "握拳 ",
+        "vision_result": "无动作",
+        "response": "无操作"
+    },
+    {
+        "timestamp": "2025-05-20 10:28:58",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "摇头 ",
+        "response": "无操作"
+    },
+    {
+        "timestamp": "2025-05-20 10:31:29",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "摇头 ",
+        "response": "无操作"
+    },
+    {
+        "timestamp": "2025-05-20 10:42:56",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "摇头",
+        "response": "取消"
+    },
+    {
+        "timestamp": "2025-05-20 14:54:58",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": "确认"
+    },
+    {
+        "timestamp": "2025-05-20 14:56:33",
+        "voice_result": "",
+        "gesture_result": "摇手",
+        "vision_result": "摇头",
+        "response": "取消"
+    },
+    {
+        "timestamp": "2025-05-20 14:59:08",
+        "voice_result": "",
+        "gesture_result": "竖起大拇指",
+        "vision_result": "摇头",
+        "response": "确认"
+    },
+    {
+        "timestamp": "2025-05-20 14:59:54",
+        "voice_result": "",
+        "gesture_result": "未知手势",
+        "vision_result": "摇头",
+        "response": "取消"
+    },
+    {
+        "timestamp": "2025-05-20 15:02:46",
+        "voice_result": "",
+        "gesture_result": "竖起大拇指",
+        "vision_result": "摇头",
+        "response": "确认"
+    },
+    {
+        "timestamp": "2025-05-20 15:05:28",
+        "voice_result": "导航",
+        "gesture_result": "无手势",
+        "vision_result": "无动作",
+        "response": "语音指令：“导航”"
+    },
+    {
+        "timestamp": "2025-05-20 15:06:51",
+        "voice_result": "导航",
+        "gesture_result": "无手势",
+        "vision_result": "无动作",
+        "response": "语音指令：“导航”"
+    },
+    {
+        "timestamp": "2025-05-20 15:07:25",
+        "voice_result": "导航",
+        "gesture_result": "无手势",
+        "vision_result": "无动作",
+        "response": "语音指令：“导航”"
+    },
+    {
+        "timestamp": "2025-05-20 15:12:43",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "无动作",
+        "response": "无操作"
+    },
+    {
+        "timestamp": "2025-05-20 15:13:01",
+        "voice_result": "导航到",
+        "gesture_result": "无手势",
+        "vision_result": "无动作",
+        "response": "操作被拒绝"
+    },
+    {
+        "timestamp": "2025-05-20 16:03:33",
+        "voice_result": "",
+        "gesture_result": "摇手",
+        "vision_result": "无动作",
+        "response": ": , : , : , : , : , : , : "
+    },
+    {
+        "timestamp": "2025-05-20 16:12:13",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ": , : , : , : , : , : , : , : , : , : , : , : , : , : , : , : , :"
+    },
+    {
+        "timestamp": "2025-05-20 16:18:17",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ": , : , : , : , : , : , : , : , : , : , : , : , : , : , : , : , :"
+    },
+    {
+        "timestamp": "2025-05-20 16:27:20",
+        "voice_result": "打开音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ":  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  : "
+    },
+    {
+        "timestamp": "2025-05-20 16:29:43",
+        "voice_result": "打开音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ":  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  : "
+    },
+    {
+        "timestamp": "2025-05-20 16:35:46",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ": : "
+    },
+    {
+        "timestamp": "2025-05-20 16:40:03",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ": "
+    },
+    {
+        "timestamp": "2025-05-20 16:48:45",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ": "
+    },
+    {
+        "timestamp": "2025-05-20 17:01:53",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ":;:;:;:;:;:;:"
+    },
+    {
+        "timestamp": "2025-05-20 17:04:33",
+        "voice_result": "不要离开我",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": ":  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  :  : "
+    },
+    {
+        "timestamp": "2025-05-20 17:11:59",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": "to find a flight"
+    },
+    {
+        "timestamp": "2025-05-20 18:47:38",
+        "voice_result": "",
+        "gesture_result": "握拳",
+        "vision_result": "点头",
+        "response": "推理失败"
+    },
+    {
+        "timestamp": "2025-05-20 18:52:46",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "摇头",
+        "response": "extra0 extra1"
+    },
+    {
+        "timestamp": "2025-05-20 18:57:05",
+        "voice_result": "",
+        "gesture_result": "握拳",
+        "vision_result": "摇头",
+        "response": "extra0"
+    },
+    {
+        "timestamp": "2025-05-20 19:05:35",
+        "voice_result": "",
+        "gesture_result": "握拳",
+        "vision_result": "摇头",
+        "response": "extra0"
+    },
+    {
+        "timestamp": "2025-05-20 21:27:24",
+        "voice_result": "",
+        "gesture_result": "无手势",
+        "vision_result": "摇头",
+        "response": "语音输入: 无\n手势输入: 无手势\n视觉输入: 摇头\n用户角色: passenger\n请用一句话描述用户当前最可能的意图： 要查看飞机座位图\n\n详细回答： 用户目前最可能的意图是想要查看飞机座位图，以便了解自己的座位位置以及乘客分布情况。这通常需要通过点击或滚动屏幕上的导航栏、按钮或其他相关链接来实现。此外，如果用户希望调整座椅布局或查看"
+    },
+    {
+        "timestamp": "2025-05-20 21:28:54",
+        "voice_result": "播放音乐",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": "语音输入: 播放音乐\n手势输入: 无手势\n视觉输入: 点头\n用户角色: passenger\n相关知识: 播放音乐操作已启动\n请用一句话描述用户当前最可能的意图：播放音乐。\n\n在操作“播放音乐”时，用户的目标是通过多种方式进行音乐的播放，即：\n\n1. 手势输入：用户可能会挥手或者点头以选择要播放的音乐或歌手。\n2. 视觉"
+    },
+    {
+        "timestamp": "2025-05-20 21:34:56",
+        "voice_result": "",
+        "gesture_result": "握拳",
+        "vision_result": "无动作",
+        "response": "语音输入: 无\n手势输入: 握拳\n视觉输入: 无动作\n用户角色: passenger\n相关知识: 音乐已暂停\n请用一句话描述用户当前最可能的意图： 用户正在播放音乐并希望结束播放。"
+    },
+    {
+        "timestamp": "2025-05-20 21:53:35",
+        "voice_result": "",
+        "gesture_result": "摇手",
+        "vision_result": "无动作",
+        "response": "语音输入: 无\n手势输入: 摇手\n视觉输入: 无动作\n用户角色: passenger\n请用一句话描述用户当前最可能的意图： 要在座位上坐下\n\n用户想要坐下来，因此最可能的意图是“坐在座位上”。这个意图可以通过用户与屏幕或交互设备进行对话、触摸屏操作或者通过语音指令来实现。例如，在一个乘客乘坐飞机应用中，用户可能会说：“我想坐下，请帮我"
+    },
+    {
+        "timestamp": "2025-05-20 22:03:50",
+        "voice_result": "",
+        "gesture_result": "摇手",
+        "vision_result": "无动作",
+        "response": "driver is looking for a nearby gas station to fill up his vehicle with gasoline\n\n请回答以下问题：用户需要在哪里找到附近的加油站？ user's current location is 需要查询\n是的 用户需要查询附近的加油站位置。用户当前位置是（填写具体的地理位置）。 用户查询了附近的加油站位置后"
+    },
+    {
+        "timestamp": "2025-05-20 22:08:29",
+        "voice_result": "导航到",
+        "gesture_result": "无手势",
+        "vision_result": "点头",
+        "response": "用户想要导航至目的地\n详细回答：\n用户目前最可能的意图是导航至目的地。他们已经启动了导航功能，以便在行驶过程中获取实时的道路信息、交通状况和最佳路径，并帮助他们更有效地规划行程。"
+    }
+]
